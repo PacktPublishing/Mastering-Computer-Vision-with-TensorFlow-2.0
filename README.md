@@ -9,7 +9,7 @@ This is the code repository for [Mastering Computer Vision with TensorFlow 2.x](
 ## What is this book about?
 Computer vision allows machines to gain human-level understanding to visualize, process, and analyze images and videos. This book focuses on using TensorFlow to help you learn advanced computer vision tasks such as image acquisition, processing, and analysis. You'll start with the key principles of computer vision and deep learning to build a solid foundation, before covering neural network architectures and understanding how they work rather than using them as a black box. Next, you'll explore architectures such as VGG, ResNet, Inception, R-CNN, SSD, YOLO, and MobileNet. As you advance, you'll learn to use visual search methods using transfer learning. You'll also cover advanced computer vision concepts such as semantic segmentation, image inpainting with GAN's, object tracking, video segmentation, and action recognition. Later, the book focuses on how machine learning and deep learning concepts can be used to perform tasks such as edge detection and face recognition. You'll then discover how to develop powerful neural network models on your PC and on various cloud platforms. Finally, you'll learn to perform model optimization methods to deploy models on edge devices for real-time inference. By the end of this book, you'll have a solid understanding of computer vision and be able to confidently develop models to automate tasks.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Explore methods of feature extraction and image retrieval and visualize different layers of the neural network model
 * Use TensorFlow for various visual search methods for real-world scenarios
 * Build neural networks or adjust parameters to optimize the performance of models
@@ -41,8 +41,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1-10       | Jupyter Notebook                  | Windows, Mac OS X, and Linux (Any) |
 | 1-10       | TensorFlow 2.0, Google Colab      | Windows, Mac OS X, and Linux (Any) |
-| 11-12      | Amazon Web Services, Azure and    | Windows, Mac OS X, and Linux (Any) |
-               Google Cloud Platform            
+| 11-12      | Amazon Web Services, Azure and Google Cloud Platform   | Windows, Mac OS X, and Linux (Any) |
+                          
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838827069_ColorImages.pdf).
@@ -56,7 +56,7 @@ https://drive.google.com/open?id=1rvhB5sE5u6lzXAb4o8hsZcbhXZ2oiQHY
 
 * Deep Learning for Computer Vision [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/deep-learning-computer-vision?utm_source=github&utm_medium=repository&utm_campaign=9781788295628) [[Amazon]](https://www.amazon.com/dp/1788-295625)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Krishnendu Kar**
 is passionate about research on computer vision and solving AI problems to make our life simpler. His core expertise is deep learning - computer vision, IoT, and agile software development. Krish is also a passionate app developer and has a dash cam-based object and lane detection and turn by turn navigation and fitness app in the iOS app store -  Nity Map AI Camera & Run timer.
 
