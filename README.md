@@ -60,7 +60,7 @@ https://drive.google.com/open?id=1rvhB5sE5u6lzXAb4o8hsZcbhXZ2oiQHY
 **Krishnendu Kar**
 is passionate about research on computer vision and solving AI problems to make our life simpler. His core expertise is deep learning - computer vision, IoT, and agile software development. Krish is also a passionate app developer and has a dash cam-based object and lane detection and turn by turn navigation and fitness app in the iOS app store -  Nity Map AI Camera & Run timer. 
 
-Here is the authors linkedin page if you have questions on the book. He will try to respond all answers within 48 hours - his average response time is 12 hours.
+Here is the author linkedin page if you have questions on the book. He will try to respond all answers within 48 hours - his average response time is 12 hours.
 https://www.linkedin.com/in/krish-kar-554739b2/
 
 
