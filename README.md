@@ -1,4 +1,4 @@
-# Book Name
+# Mastering Computer Vision with TensorFlow 2.x
 
 <a href="https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069"><img src="Cover Image URL of the Book" alt="Mastering Computer Vision with TensorFlow 2.x" height="256px" align="right"></a>
 
