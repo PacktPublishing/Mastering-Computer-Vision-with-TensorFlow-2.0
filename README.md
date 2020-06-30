@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=9781838827069"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838827069-original.png" alt="Mastering Computer Vision with TensorFlow 2.x" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Computer Vision with TensorFlow 2.x](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=978-1-83882-706-9), published by Packt.Mastering Computer Vision with TensorFlow 2.x
+This is the code repository for [Mastering Computer Vision with TensorFlow 2.x](https://www.packtpub.com/in/data/advanced-computer-vision-with-tensorflow-2-x?utm_source=github&utm_medium=repository&utm_campaign=978-1-83882-706-9), published by Packt.
 
 **Build advanced computer vision applications using machine learning and deep learning techniques**
 
