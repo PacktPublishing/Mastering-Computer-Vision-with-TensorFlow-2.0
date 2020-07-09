@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 https://drive.google.com/open?id=1rvhB5sE5u6lzXAb4o8hsZcbhXZ2oiQHY
 
 ## Errors and additional descriptions: ##
-Although the book has gone through many reviews, we noticed few errors and additional descriptions that will help the readers - the link for these can be found below
+Although the book has gone through many reviews, we noticed few errors and additional clarifications required after the book was published - we believe listing these will help the readers - the link for these can be found below.  This is a dynamic section and is a means to work with our readers to make this book even better.
 
 https://drive.google.com/drive/folders/1lTgWdYdhJPju9oOJ0Hns9QRjvtdhG6Qq?usp=sharing
 
