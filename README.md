@@ -50,8 +50,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Screen video for the codes can be found in the below link: ##
 https://drive.google.com/open?id=1rvhB5sE5u6lzXAb4o8hsZcbhXZ2oiQHY
 
-## Errors and additional descrioptions: ##
-Although the book has gone through many reviews, we noticed few errors and additional descriptions - the libk for these can be found below
+## Errors and additional descriptions: ##
+Although the book has gone through many reviews, we noticed few errors and additional descriptions that will help the readers - the link for these can be found below
 https://drive.google.com/drive/folders/1lTgWdYdhJPju9oOJ0Hns9QRjvtdhG6Qq?usp=sharing
 
 
