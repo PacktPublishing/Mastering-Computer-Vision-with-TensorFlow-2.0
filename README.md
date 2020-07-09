@@ -50,6 +50,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Screen video for the codes can be found in the below link: ##
 https://drive.google.com/open?id=1rvhB5sE5u6lzXAb4o8hsZcbhXZ2oiQHY
 
+## Errors and additional descrioptions: ##
+Although the book has gone through many reviews, we noticed few errors and additional descriptions - the libk for these can be found below
+https://drive.google.com/drive/folders/1lTgWdYdhJPju9oOJ0Hns9QRjvtdhG6Qq?usp=sharing
+
+
 
 ### Related products <Other books you may enjoy>
 * Hands-On Computer Vision with TensorFlow 2 [[Packt]](https://www.packtpub.com/in/application-development/hands-computer-vision-tensorflow-2?utm_source=github&utm_medium=repository&utm_campaign=9781788830645) [[Amazon]](https://www.amazon.com/dp/1788830644)
